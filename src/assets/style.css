@@ -1,0 +1,25 @@
+.mr-5 {
+  margin-right: 10px;
+}
+
+.max-width {
+  width: 100%;
+}
+
+.mb-5 {
+  margin-bottom: 10px;
+}
+
+/* body {
+  overflow-x: hidden;
+} */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+  margin: 0 !important;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield !important;
+}
